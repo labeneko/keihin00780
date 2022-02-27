@@ -1,7 +1,7 @@
 <html>
-<head><title>525 Origin SSL Handshake Error</title></head>
+<head><title>520 Origin Error</title></head>
 <body bgcolor="white">
-<center><h1>525 Origin SSL Handshake Error</h1></center>
+<center><h1>520 Origin Error</h1></center>
 <hr><center>cloudflare-nginx</center>
 </body>
 </html>
